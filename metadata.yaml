@@ -1,0 +1,36 @@
+_repo: Representative-Plays-by-American-Dramatists--1856-1911--The-Moth-and-the-Flame_25531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitch, Clyde
+    alias: Fitch, William Clyde
+    birthdate: 1865
+    deathdate: 1909
+    gutenberg_agent_id: '6533'
+    url: http://www.gutenberg.org/2009/agents/6533
+    wikipedia: http://en.wikipedia.org/wiki/Clyde_Fitch
+  editor:
+    agent_name: Moses, Montrose Jonas
+    alias: Moses, Montrose J.
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '4192'
+    url: http://www.gutenberg.org/2009/agents/4192
+description: ''
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama'
+- !lcc 'PS'
+- !lcsh 'Drama'
+title: 'Representative Plays by American Dramatists: 1856-1911: The Moth and the Flame'
+url: http://www.gutenberg.org/ebooks/25531
